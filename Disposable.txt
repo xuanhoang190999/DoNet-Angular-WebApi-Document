@@ -1,0 +1,8 @@
+- Kế thừa từ IDisposable, interface có sẵn của C#
+- Cho phép cài đặt các phương thức tự động hủy
+- Tự động tắt đối tượng khi không dùng đến
+- Có code sẵn
+
+Dispose(true);
+GC.SuppressFinalize(this);
+- Dùng thu hồi, thu hoạch bộ nhớ

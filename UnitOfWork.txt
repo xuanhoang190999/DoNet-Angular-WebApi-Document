@@ -1,0 +1,4 @@
+- Đảm bảo sự toàn vẹn dữ liệu khi có nhiều thao tác cùng lúc với CSDL
+- Đảm bảo các thao tác thành công
+- Đảm bảo nhiều Reponsitory chỉ có 1 connection
+- Khi commit (SaveChanges) : sẽ đẩy thay đổi vào database

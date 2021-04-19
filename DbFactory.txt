@@ -1,0 +1,3 @@
+- Khởi tạo đối tượng DbContext (new 1 đối tượng DbContext) thay vì new trực tiếp ở từng chỗ
+- Không khởi tạo trực tiếp mà thông qua thằng này
+- Áp dụng mẫu DbFactory trong Design Pattern

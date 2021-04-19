@@ -1,0 +1,2 @@
+- Phải ghi đè phương thức của DbContext
+- Sẽ chạy khi khởi tạo Entity Framework

@@ -1,0 +1,2 @@
+this.Configuration.LazyLoadingEnabled = false;
+- Khi get bảng cha thì không tự động includes bảng con
