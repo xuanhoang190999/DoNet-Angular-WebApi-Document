@@ -1,0 +1,12 @@
+C:\Users\MSI-9700K\Desktop\Course\DoNet-Angular-WebApi-Document\Shop\Shop.Model\bin\Debug\Shop.Model.dll.config
+C:\Users\MSI-9700K\Desktop\Course\DoNet-Angular-WebApi-Document\Shop\Shop.Model\bin\Debug\Shop.Model.dll
+C:\Users\MSI-9700K\Desktop\Course\DoNet-Angular-WebApi-Document\Shop\Shop.Model\bin\Debug\Shop.Model.pdb
+C:\Users\MSI-9700K\Desktop\Course\DoNet-Angular-WebApi-Document\Shop\Shop.Model\bin\Debug\EntityFramework.dll
+C:\Users\MSI-9700K\Desktop\Course\DoNet-Angular-WebApi-Document\Shop\Shop.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MSI-9700K\Desktop\Course\DoNet-Angular-WebApi-Document\Shop\Shop.Model\bin\Debug\EntityFramework.xml
+C:\Users\MSI-9700K\Desktop\Course\DoNet-Angular-WebApi-Document\Shop\Shop.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MSI-9700K\Desktop\Course\DoNet-Angular-WebApi-Document\Shop\Shop.Model\obj\Debug\Shop.Model.csprojAssemblyReference.cache
+C:\Users\MSI-9700K\Desktop\Course\DoNet-Angular-WebApi-Document\Shop\Shop.Model\obj\Debug\Shop.Model.csproj.CoreCompileInputs.cache
+C:\Users\MSI-9700K\Desktop\Course\DoNet-Angular-WebApi-Document\Shop\Shop.Model\obj\Debug\Shop.Model.csproj.CopyComplete
+C:\Users\MSI-9700K\Desktop\Course\DoNet-Angular-WebApi-Document\Shop\Shop.Model\obj\Debug\Shop.Model.dll
+C:\Users\MSI-9700K\Desktop\Course\DoNet-Angular-WebApi-Document\Shop\Shop.Model\obj\Debug\Shop.Model.pdb

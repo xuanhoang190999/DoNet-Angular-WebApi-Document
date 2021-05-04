@@ -1,0 +1,6 @@
+C:\Users\MSI-9700K\Desktop\Course\DoNet-Angular-WebApi-Document\Shop\Shop.Common\bin\Debug\Shop.Common.dll
+C:\Users\MSI-9700K\Desktop\Course\DoNet-Angular-WebApi-Document\Shop\Shop.Common\bin\Debug\Shop.Common.pdb
+C:\Users\MSI-9700K\Desktop\Course\DoNet-Angular-WebApi-Document\Shop\Shop.Common\obj\Debug\Shop.Common.csprojAssemblyReference.cache
+C:\Users\MSI-9700K\Desktop\Course\DoNet-Angular-WebApi-Document\Shop\Shop.Common\obj\Debug\Shop.Common.csproj.CoreCompileInputs.cache
+C:\Users\MSI-9700K\Desktop\Course\DoNet-Angular-WebApi-Document\Shop\Shop.Common\obj\Debug\Shop.Common.dll
+C:\Users\MSI-9700K\Desktop\Course\DoNet-Angular-WebApi-Document\Shop\Shop.Common\obj\Debug\Shop.Common.pdb

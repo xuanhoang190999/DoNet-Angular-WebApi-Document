@@ -1,0 +1,16 @@
+Web:
+ - Common
+ - Data
+ - Model
+ - Service
+
+Data:
+ - Common
+
+UnitTest: all
+
+Srevice:
+ - Common
+ - Data
+ - Model
+

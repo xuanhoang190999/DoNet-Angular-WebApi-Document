@@ -1,0 +1,5 @@
+B1: Cài đặt thư viện AutoMapper từ Nuget
+B2: Tạo các ViewModel tương ứng với Model
+B3: Tạo file MapperConfiguration để cấu hình
+B4: Tạo phần update từ ViewModel sang Model
+B5: Thực hiện Mapping

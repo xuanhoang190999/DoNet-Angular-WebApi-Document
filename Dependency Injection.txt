@@ -1,0 +1,3 @@
+- Không biết nói sao :))
+- Hỗ trợ khởi tạo 1 interface mà không cần new
+- Auto gán Car cho ICar

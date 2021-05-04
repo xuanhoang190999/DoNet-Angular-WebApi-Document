@@ -1,0 +1,4 @@
+- B1: Cài đặt gói Autofac, Autofac.Mvc5, Autofac.WebApi2
+- B2: Tạo file Startup.cs để register
+- B3: Cài đặt gói Microsoft.Owin.Host.SystemWeb để chạy file Startup
+- B4: Register starup cả controller và API
