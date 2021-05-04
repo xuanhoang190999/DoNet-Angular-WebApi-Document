@@ -1,9 +1,13 @@
-﻿using Shop.Model.Models;
+﻿using AutoMapper;
+using Shop.Model.Models;
 using Shop.Service;
 using Shop.Web.Infrastructure.Core;
+using Shop.Web.Models;
+using System.Collections.Generic;
 using System.Net;
 using System.Net.Http;
 using System.Web.Http;
+using Shop.Web.Infrastructure.Extensions;
 
 namespace Shop.Web.Apis
 {
@@ -25,14 +29,15 @@ namespace Shop.Web.Apis
             {
                 var listCategory = _postCategoryService.GetAll();
 
-                HttpResponseMessage response = request.CreateResponse(HttpStatusCode.OK, listCategory);
+                var listPostCategoryVM = Mapper.Map<List<PostCategoryViewModel>>(listCategory);
 
+                HttpResponseMessage response = request.CreateResponse(HttpStatusCode.OK, listPostCategoryVM);
 
                 return response;
             });
         }
 
-        public HttpResponseMessage Post(HttpRequestMessage request, PostCategory postCategory)
+        public HttpResponseMessage Post(HttpRequestMessage request, PostCategoryViewModel postCategoryVM)
         {
             return CreateHttpResponse(request, () =>
             {
@@ -43,7 +48,10 @@ namespace Shop.Web.Apis
                 }
                 else
                 {
-                    var category = _postCategoryService.Add(postCategory);
+                    PostCategory newPostCategory = new PostCategory();
+                    newPostCategory.UpdatePostCategory(postCategoryVM);
+
+                    var category = _postCategoryService.Add(newPostCategory);
                     _postCategoryService.Save();
 
                     response = request.CreateResponse(HttpStatusCode.Created, category);
@@ -53,7 +61,7 @@ namespace Shop.Web.Apis
             });
         }
 
-        public HttpResponseMessage Put(HttpRequestMessage request, PostCategory postCategory)
+        public HttpResponseMessage Put(HttpRequestMessage request, PostCategoryViewModel postCategoryVM)
         {
             return CreateHttpResponse(request, () =>
             {
@@ -64,7 +72,10 @@ namespace Shop.Web.Apis
                 }
                 else
                 {
-                    _postCategoryService.Update(postCategory);
+                    var postCategoryDb = _postCategoryService.GetById(postCategoryVM.Id);
+                    postCategoryDb.UpdatePostCategory(postCategoryVM);
+
+                    _postCategoryService.Update(postCategoryDb);
                     _postCategoryService.Save();
 
                     response = request.CreateResponse(HttpStatusCode.OK);

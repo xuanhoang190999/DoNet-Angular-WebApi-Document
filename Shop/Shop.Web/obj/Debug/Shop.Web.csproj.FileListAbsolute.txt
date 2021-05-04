@@ -87,3 +87,17 @@ C:\Users\MSI-9700K\Desktop\Course\DoNet-Angular-WebApi-Document\Shop\Shop.Web\bi
 C:\Users\MSI-9700K\Desktop\Course\DoNet-Angular-WebApi-Document\Shop\Shop.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
 C:\Users\MSI-9700K\Desktop\Course\DoNet-Angular-WebApi-Document\Shop\Shop.Web\bin\System.Runtime.CompilerServices.Unsafe.dll
 C:\Users\MSI-9700K\Desktop\Course\DoNet-Angular-WebApi-Document\Shop\Shop.Web\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\MSI-9700K\Desktop\Course\DoNet-Angular-WebApi-Document\Shop\Shop.Web\bin\AutoMapper.dll
+C:\Users\MSI-9700K\Desktop\Course\DoNet-Angular-WebApi-Document\Shop\Shop.Web\bin\AutoMapper.xml
+C:\Users\MSI-9700K\Desktop\Course\DoNet-Angular-WebApi-Document\Shop\Shop.Web\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\MSI-9700K\Desktop\Course\DoNet-Angular-WebApi-Document\Shop\Shop.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\MSI-9700K\Desktop\Course\DoNet-Angular-WebApi-Document\Shop\Shop.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\MSI-9700K\Desktop\Course\DoNet-Angular-WebApi-Document\Shop\Shop.Web\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\MSI-9700K\Desktop\Course\DoNet-Angular-WebApi-Document\Shop\Shop.Web\bin\Microsoft.Owin.Security.dll
+C:\Users\MSI-9700K\Desktop\Course\DoNet-Angular-WebApi-Document\Shop\Shop.Web\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\MSI-9700K\Desktop\Course\DoNet-Angular-WebApi-Document\Shop\Shop.Web\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\MSI-9700K\Desktop\Course\DoNet-Angular-WebApi-Document\Shop\Shop.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\MSI-9700K\Desktop\Course\DoNet-Angular-WebApi-Document\Shop\Shop.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\MSI-9700K\Desktop\Course\DoNet-Angular-WebApi-Document\Shop\Shop.Web\bin\Microsoft.Owin.Security.xml
+C:\Users\MSI-9700K\Desktop\Course\DoNet-Angular-WebApi-Document\Shop\Shop.Web\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\MSI-9700K\Desktop\Course\DoNet-Angular-WebApi-Document\Shop\Shop.Web\bin\Microsoft.Owin.Security.OAuth.xml

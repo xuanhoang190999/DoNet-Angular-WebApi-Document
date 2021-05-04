@@ -10,3 +10,7 @@ C:\Users\MSI-9700K\Desktop\Course\DoNet-Angular-WebApi-Document\Shop\Shop.Model\
 C:\Users\MSI-9700K\Desktop\Course\DoNet-Angular-WebApi-Document\Shop\Shop.Model\obj\Debug\Shop.Model.csproj.CopyComplete
 C:\Users\MSI-9700K\Desktop\Course\DoNet-Angular-WebApi-Document\Shop\Shop.Model\obj\Debug\Shop.Model.dll
 C:\Users\MSI-9700K\Desktop\Course\DoNet-Angular-WebApi-Document\Shop\Shop.Model\obj\Debug\Shop.Model.pdb
+C:\Users\MSI-9700K\Desktop\Course\DoNet-Angular-WebApi-Document\Shop\Shop.Model\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\MSI-9700K\Desktop\Course\DoNet-Angular-WebApi-Document\Shop\Shop.Model\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\MSI-9700K\Desktop\Course\DoNet-Angular-WebApi-Document\Shop\Shop.Model\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\MSI-9700K\Desktop\Course\DoNet-Angular-WebApi-Document\Shop\Shop.Model\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml

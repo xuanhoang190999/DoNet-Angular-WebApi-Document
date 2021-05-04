@@ -18,3 +18,9 @@ C:\Users\MSI-9700K\Desktop\Course\DoNet-Angular-WebApi-Document\Shop\Shop.Data\o
 C:\Users\MSI-9700K\Desktop\Course\DoNet-Angular-WebApi-Document\Shop\Shop.Data\obj\Debug\Shop.Data.Migrations.Hoang.resources
 C:\Users\MSI-9700K\Desktop\Course\DoNet-Angular-WebApi-Document\Shop\Shop.Data\obj\Debug\Shop.Data.csproj.GenerateResource.cache
 C:\Users\MSI-9700K\Desktop\Course\DoNet-Angular-WebApi-Document\Shop\Shop.Data\obj\Debug\Shop.Data.Migrations.AddtableErrors.resources
+C:\Users\MSI-9700K\Desktop\Course\DoNet-Angular-WebApi-Document\Shop\Shop.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\MSI-9700K\Desktop\Course\DoNet-Angular-WebApi-Document\Shop\Shop.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\MSI-9700K\Desktop\Course\DoNet-Angular-WebApi-Document\Shop\Shop.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\MSI-9700K\Desktop\Course\DoNet-Angular-WebApi-Document\Shop\Shop.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\MSI-9700K\Desktop\Course\DoNet-Angular-WebApi-Document\Shop\Shop.Data\obj\Debug\Shop.Data.Migrations.intergrateaspnetIdentity.resources
+C:\Users\MSI-9700K\Desktop\Course\DoNet-Angular-WebApi-Document\Shop\Shop.Data\obj\Debug\Shop.Data.Migrations.changekey.resources

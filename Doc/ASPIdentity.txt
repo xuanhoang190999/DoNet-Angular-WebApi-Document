@@ -1,0 +1,10 @@
+1. Cài 3 thư viện
+	- Microsoft.AspNet.Identity.EntityFramework
+	- Microsoft.AspNet.Identity.Core
+	- Microsoft.AspNet.Identity.Owin
+2. Tạo mới class User kế thừa từ IdentityUser
+3. Tạo mới Role kế thừa từ IdentityRole
+4. Kế thừa lớp DbContext từ dentityDbContext<User>
+5. Cấu hình authentication từ file Startup.cs
+6. Migration vào database
+7. Tạo class quản lý authen
